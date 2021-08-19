@@ -92,7 +92,7 @@
     width: 6.7%;
     height: 60%;
     display: flex;
-    margin-top: -5%;
+    margin-top: -2%;
     position: relative;
 }
 .QuesIcon{
@@ -100,12 +100,13 @@
     height: 60%;
     display: flex;
     position: relative;
+    margin-top: 1%;
 }
 .noteIcon{
     width: 6.7%;
     height: 60%;
     display: flex;
-    margin-top: -40%;
+    margin-top: -39%;
     position: relative;
     margin-left: 57%;
 }
@@ -135,7 +136,7 @@
     padding: 30%;
     margin-left: -20%;
     font-weight: bold;
-    margin-top: -52%;
+    margin-top: -55%;
 }
 .content2{
     color: rgb(165, 161, 161);
