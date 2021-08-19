@@ -100,7 +100,7 @@
     height: 60%;
     display: flex;
     position: relative;
-    margin-top: 1%;
+    margin-top: -1%;
 }
 .noteIcon{
     width: 6.7%;
@@ -136,7 +136,7 @@
     padding: 30%;
     margin-left: -20%;
     font-weight: bold;
-    margin-top: -55%;
+    margin-top: -52%;
 }
 .content2{
     color: rgb(165, 161, 161);
