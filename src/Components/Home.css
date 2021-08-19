@@ -107,7 +107,7 @@
     display: flex;
     margin-top: -37%;
     position: relative;
-    margin-left: 60%;
+    margin-left: 57%;
 }
 .contentdiv{   
     margin-top: 6%;
@@ -117,7 +117,7 @@
 .content{
     color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 160%;
+    font-size: 150%;
     position: relative;
     line-height: 40px;
     font-weight: 500;
@@ -131,17 +131,17 @@
 }
 .content1{
     color: rgb(165, 161, 161);
-    font-size: 110%;
+    font-size: 100%;
     padding: 28%;
-    margin-left: -17%;
+    margin-left: -20%;
     font-weight: bold;
     margin-top: -50%;
 }
 .content2{
     color: rgb(165, 161, 161);
-    margin-left: 70%;
+    margin-left: 67%;
     margin-top: -10%;
-    font-size: 110%;
+    font-size: 100%;
     font-weight: bold;
 }
 
