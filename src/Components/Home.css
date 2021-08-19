@@ -1,41 +1,40 @@
 .liveIcon{
-    margin-top: -2.4%;
+    margin-top: -1%;
     width: 19em;
-    height: 200px;
+    height: 160px;
     position: relative;
     cursor: pointer;
 }
 .slideButtons{
-    width: 15%;
+    width: 14%;
     height: 70px;
-    margin-left: 80%;
-    margin-top: -3em;
+    margin-left: 76%;
+    margin-top: -3.2em;
     display: flex;
 }
 .prevIcon{
-    width: 25%;
-    height: 100%;
+    width: 23%;
+    height: 90%;
     margin-left: 5%;
     cursor: pointer;
 }
 .nextIcon{
-    width: 25%;
-    height: 100%;
+    width: 23%;
+    height: 90%;
     margin-left: 25%;
     cursor: pointer;
     display: flex;
 }
 .Heading{
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    font-size: 225%;
-    margin-left: 7em;
-    margin-top: -3.7em;
+    font-size: 206%;
+    margin-left: 6.9em;
+    margin-top: -3.3em;
 }
 .carouselContainer{
-    
-    margin-top: 4%;
-    margin-left: 4%;
-    width: 90%;
+    margin-top: 2.4%;
+    margin-left: 5.5%;
+    width: 85%;
     height: 530px; 
 }
 .carouselContainer::-webkit-scrollbar{
@@ -43,43 +42,43 @@
 }
 .cards{
     background: white;
-    width: 90%;
-    margin-left: 5%;
+    width: 82%;
+    margin-left: 6%;
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
-    margin-top: 0.6%;
+    margin-top: 2%;
     cursor: pointer;
     transition: 400ms;
-    height: 31em;
+    height: 30em;
 }
 .cards:hover{
     transform: scale(1.03);
 }
 .cards img{
     width: 100%;
-    height: 39%;
+    height: 35%;
     border-top-left-radius: 15px;
     border-top-right-radius: 15px;
     position: relative;
 }
 .back{
     background: linear-gradient(to right,rgba(60, 94, 189, 0.767), rgb(10, 50, 161));
-    height: 13%;
+    height: 11%;
     margin-top: -2%;
     width: 100%;
 }
 .back3{
     background: linear-gradient(to right,rgba(119, 182, 48, 0.767), rgb(19, 153, 119));
-    height: 13%;
+    height: 12%;
     margin-top: -2%;
     width: 100%;
 }
 .cardText1{
     color: white;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 150%;
+    font-size: 145%;
     margin-left: 18%;
-    margin-top: -12%;
+    margin-top: -12.5%;
     font-weight: bold;
     position: relative;
 }
@@ -106,25 +105,25 @@
     width: 6.7%;
     height: 60%;
     display: flex;
-    margin-top: -33.6%;
+    margin-top: -37%;
     position: relative;
     margin-left: 60%;
 }
 .contentdiv{   
-    margin-top: 7%;
+    margin-top: 6%;
     margin-left: 5%;
     width: 91%;
 }
 .content{
     color: black;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 175%;
+    font-size: 160%;
     position: relative;
     line-height: 40px;
     font-weight: 500;
 }
 .contentdiv2{  
-    margin-top: 14%;
+    margin-top: 12%;
     margin-left: 5%;
     width: 91%;
     height: 15%;
@@ -132,17 +131,17 @@
 }
 .content1{
     color: rgb(165, 161, 161);
-    font-size: 120%;
-    padding: 25%;
-    margin-left: -14%;
+    font-size: 110%;
+    padding: 28%;
+    margin-left: -17%;
     font-weight: bold;
-    margin-top: -45%;
+    margin-top: -50%;
 }
 .content2{
     color: rgb(165, 161, 161);
     margin-left: 70%;
-    margin-top: -9.8%;
-    font-size: 120%;
+    margin-top: -10%;
+    font-size: 110%;
     font-weight: bold;
 }
 
